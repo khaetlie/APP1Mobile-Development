@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">PlanetWeight</string>
+    <string name="app_logo">App Logo</string>
+    <string name="enter_app">Enter App</string>
+    <string name="enter_weight_prompt">Please enter your weight and select a planet.</string>
+    <string name="welcome_message">Welcome to Planet Weight Generator!\n\nIt\'s simple!\n\nYou want to know how you weigh on other planets? Enter your weight and choose a planet and there you go! We will generate the results for you.\n\nClick Continue when you\'re ready!</string>
+    <string name="continue_button">Continue</string>
+    <string name="title_text">Planet\nWeight\nGenerator</string>
+    <string name="enter_weight">Enter your weight:</string>
+    <string name="weight_hint">e.g. 70</string>
+    <string name="choose_planet">Choose a planet:</string>
+    <string name="generate_button">Generate</string>
+    <string name="planet_weight_format">Your weight on %1$s is %.2f kg</string>
+
+
+
+
+
+</resources>
